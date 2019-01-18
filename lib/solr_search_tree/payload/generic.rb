@@ -17,7 +17,7 @@ module SolrSearchTree
       end
 
       def hash
-        inspect.hash
+        [self.class, value].hash
       end
     end
 
