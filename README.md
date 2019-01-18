@@ -21,9 +21,9 @@ h_or_w = keyword_hello | "world"
 puts h_or_w
 # => keyword:(Hello OR World)
 
-
-
 ```
+
+
  
 
 ## Installation
