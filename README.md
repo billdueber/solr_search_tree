@@ -1,5 +1,10 @@
 # SolrSearchTree
 
+----
+**Deprecated and archived**. See [mlibrary/mlibrary_search_parser](https://github.com/mlibrary/mlibrary_search_parser) for a better look at the same ideas.
+
+----
+
 A search tree supporting binary operators suitable as an intermediate format for
 transforming user input into a format suitable to send to a search engine, with
 an emphasis on Solr as a target.
